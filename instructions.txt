@@ -1,0 +1,11 @@
+1. Assuming you have Python installed on your computer, Unzip this folder.
+2. Go into this folder from your command prompt, terminal.
+3. Type the following: 'python PollyexCodingChallenge.py' in your computer, For Mac, Linux, or Windows should be the same.
+4. This will launch this program, and give you an output with valid data, with respect to this calculatrs input.
+5. You can modify this file by changing the input of the file by editing lines 106 thru 109.
+6. The default values for this file are as follows:
+'principal = 100000
+ downpayment = 20000
+ term_in_years = 30
+ interest_rate_percent = 5.5'
+7. These constanst can be modified to test various inputs.
